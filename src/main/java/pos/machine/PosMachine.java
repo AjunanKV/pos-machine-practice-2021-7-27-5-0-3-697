@@ -6,4 +6,9 @@ public class PosMachine {
     public String printReceipt(List<String> barcodes) {
         return null;
     }
+
+
 }
+
+
+
